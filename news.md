@@ -1,4 +1,4 @@
-## NEWS
+# News
 
 il venerdì 02/07/2025 | 7/02/2025
 farò un app MOLTO probabilmete in Kotlin e sarà un app di news 
