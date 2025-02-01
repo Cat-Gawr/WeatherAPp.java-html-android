@@ -1,6 +1,6 @@
 # WeatherAPp.java-html-android
 
-buongirono,questo progeto è da molto tempo che avevo in mentedi farlo ma non ci sono riuscito.
+buongiorno,questo progetto è da molto tempo che avevo in mente di fare ma non ci sono riuscito.
 troverete in questo reposity il codice open-source di un app in Java per il sistema operativo
 Android(samsung,realme,oppo,itel,Asus rog,xiami e redmi).
 
